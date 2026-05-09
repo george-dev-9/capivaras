@@ -1,0 +1,26 @@
+body {
+    background-color: coral;
+}
+
+p {
+
+    font-family: "Google Sans", sans-serif;
+    font-size: 19px;
+    color: darkbrown;
+}
+
+h1  {
+     font-family: "Google Sans", sans-serif;
+        font-size: 36px;
+        color: darkbrown;
+}
+
+h2  {
+     font-family: "Google Sans", sans-serif;
+        font-size: 28px;
+        color: darkbrown;
+}
+
+img {
+    border: 12px solid rgb(80, 50, 2);
+}
